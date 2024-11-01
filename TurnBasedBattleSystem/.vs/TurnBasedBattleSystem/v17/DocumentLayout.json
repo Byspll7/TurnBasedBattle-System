@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\TurnBasedBattleSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AACD0FE-FAE7-446F-A79D-AA91C56186DE}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|c:\\users\\hp\\source\\repos\\turnbasedbattlesystem\\turnbasedbattlesystem\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AACD0FE-FAE7-446F-A79D-AA91C56186DE}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|solutionrelative:turnbasedbattlesystem\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AACD0FE-FAE7-446F-A79D-AA91C56186DE}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|c:\\users\\hp\\source\\repos\\turnbasedbattlesystem\\turnbasedbattlesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AACD0FE-FAE7-446F-A79D-AA91C56186DE}|TurnBasedBattleSystem\\TurnBasedBattleSystem.csproj|solutionrelative:turnbasedbattlesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Unit.cs",
+              "RelativeDocumentMoniker": "TurnBasedBattleSystem\\Unit.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Unit.cs",
+              "RelativeToolTip": "TurnBasedBattleSystem\\Unit.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:38:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TurnBasedBattleSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TurnBasedBattleSystem\\TurnBasedBattleSystem\\Program.cs",
+              "RelativeToolTip": "TurnBasedBattleSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:36:06.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
